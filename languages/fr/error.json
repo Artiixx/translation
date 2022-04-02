@@ -1,15 +1,15 @@
 {
     "Error_APInotWorking": "L'API ne fonctionne pas pour le moment, réessayez plus tard. Vous pouvez {{discord}} pour plus d'informations.",
-    "400": "The request is syntax broken or impossible to fulfill.",
-    "401": "You do not have permission for this page.",
-    "402": "Purchase required for this page.",
-    "403": "The request does not specify the filename, or the directory or file does not have permission to allow pages to be viewed from the web.",
-    "404": "We couldn't find the page you were looking for.",
-    "405": "This method is invalid.",
-    "500": "An error occurred, again later.",
-    "502": "Bad gateway.",
-    "504": "Gateway timed out.",
-    "adblock": "Adblock detected, please close the adblock!",
-    "go_back": "Go Back",
-    "go_back_description": "Back to the page you were redirected to here"
+    "400": "La requête a échouée.",
+    "401": "Vous n'avez pas la permission de voir cette page.",
+    "402": "Un achat est requis pour pouvoir accéder à cette page.",
+    "403": "La requête ne spécifie pas le nom du fichier donc cette page est donc inaccessible.",
+    "404": "Nous n'avons pas trouvé la page que vous cherchez.",
+    "405": "Cette méthode est invalide.",
+    "500": "Une erreur est survenue, veuillez réessayer plus tard.",
+    "502": "Mauvaise requête.",
+    "504": "La requête a expiré.",
+    "adblock": "Un bloqueur de publicité a été détecté, veuillez le retirer!",
+    "go_back": "Retour",
+    "go_back_description": "Retour à la page précédente"
 }
